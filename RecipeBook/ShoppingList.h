@@ -1,4 +1,4 @@
-/*This class will handle any meals/ingredients added as a shopping list. Ideally these will be able to be removed/added at wills with their own quanitites.*/
+/*This class will handle any meals/ingredients added as a shopping list. Ideally these will be able to be removed or added at will with their own quanitites.*/
 
 #pragma once
 
