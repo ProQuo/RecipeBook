@@ -27,12 +27,27 @@
     <ClCompile Include="ShoppingList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ingredient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Book.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dish.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShoppingList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ingredient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Book.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
